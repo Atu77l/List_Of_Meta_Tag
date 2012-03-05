@@ -1,3 +1,5 @@
+Copied from http://code.lancepollard.com/complete-list-of-html-meta-tags/
+
 ## Basic HTML Meta Tags
 
 ``` html
