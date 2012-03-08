@@ -34,7 +34,6 @@ Copied from http://code.lancepollard.com/complete-list-of-html-meta-tags/
 <meta name='MobileOptimized' content='320'>
 <meta name='date' content='Sep. 27, 2010'>
 <meta name='search_date' content='2010-09-27'>
-<meta name='Rating' content='General'>
 <meta name='DC.title' content='Unstoppable Robot Ninja'>
 <meta name='ResourceLoaderDynamicStyles' content=''>
 <meta name='medium' content='blog'>
