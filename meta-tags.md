@@ -44,7 +44,6 @@ Copied from http://code.lancepollard.com/complete-list-of-html-meta-tags/
 <meta name='y_key' content='1e39c508e0d87750'>
 <meta name='pageKey' content='guest-home'>
 <meta itemprop='name' content='jQTouch'>
-<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
 <meta http-equiv='Expires' content='0'>
 <meta http-equiv='Pragma' content='no-cache'>
 <meta http-equiv='Cache-Control' content='no-cache'>
