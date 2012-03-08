@@ -126,7 +126,7 @@ Use custom meta tags to store data that you need in Javascript, instead of hard-
 <meta name='apple-touch-fullscreen' content='yes'>
 <meta name='apple-mobile-web-app-status-bar-style' content='black'>
 <meta name='format-detection' content='telephone=no'>
-<meta  name='viewport' content='width=device-width; content='width = 320; initial-scale=1.0; maximum-scale=1.0; user-scalable=yes; target-densitydpi=160dpi'>
+<meta name='viewport' content='width=device-width; content='width = 320; initial-scale=1.0; maximum-scale=1.0; user-scalable=yes; target-densitydpi=160dpi'>
 
 <link href='/apple-touch-icon.png' rel='apple-touch-icon' type='image/png'>
 <link href='touch-icon-ipad.png' rel='apple-touch-icon' sizes='72x72'>
