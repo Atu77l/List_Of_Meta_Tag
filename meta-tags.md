@@ -47,7 +47,6 @@ Copied from http://code.lancepollard.com/complete-list-of-html-meta-tags/
 <meta http-equiv='Pragma' content='no-cache'>
 <meta http-equiv='Cache-Control' content='no-cache'>
 <meta http-equiv='imagetoolbar' content='no'>
-<meta http-equiv='Pragma' content='no-cache'>
 <meta http-equiv='x-dns-prefetch-control' content='off'>
 
 ```
