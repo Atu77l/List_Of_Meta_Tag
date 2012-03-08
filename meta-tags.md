@@ -4,7 +4,6 @@ Copied from http://code.lancepollard.com/complete-list-of-html-meta-tags/
 
 ``` html
 <meta charset='UTF-8'>
-<meta content='en_US' name='language'>
 <meta name='keywords' content='your, tags'>
 <meta name='description' content='150 words'>
 <meta name='subject' content='your website's subject'>
