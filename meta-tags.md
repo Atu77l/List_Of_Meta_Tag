@@ -221,6 +221,7 @@ Use custom meta tags to store data that you need in Javascript, instead of hard-
 ```
 ## Other Resources
 
+- [HTML5 Boilerplate explanations and suggestions of header tags](http://html5boilerplate.com/docs/head-Tips/)
 - [Dublic Core Meta Tags](http://www.seoconsultants.com/meta-tags/dublin/)
 - [Apple Meta Tags](http://developer.apple.com/safari/library/documentation/appleapplications/reference/safarihtmlref/articles/metatags.html)
 - [OpenGraph Meta Tags](http://opengraphprotocol.org/)
