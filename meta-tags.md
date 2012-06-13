@@ -122,6 +122,7 @@ Use custom meta tags to store data that you need in Javascript, instead of hard-
 #### Apple Meta Tags
 
 ``` html
+<meta name="apple-mobile-web-app-title" content="My App"> <!-- New in iOS6 -->
 <meta name='apple-mobile-web-app-capable' content='yes'>
 <meta name='apple-touch-fullscreen' content='yes'>
 <meta name='apple-mobile-web-app-status-bar-style' content='black'>
