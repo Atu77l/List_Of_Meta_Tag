@@ -161,6 +161,12 @@ Use custom meta tags to store data that you need in Javascript, instead of hard-
 
 ```
 
+#### Google Meta Tags
+
+``` html
+<meta name="news_keywords" content="World Cup, Brazil 2014, Spain vs Netherlands, soccer, football">
+```
+
 #### TweetMeme Meta Tags
 
 ``` html
